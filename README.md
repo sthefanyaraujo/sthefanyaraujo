@@ -1,10 +1,9 @@
 ### Olá! Eu sou a Sthefany Araújo
 
 - 🔭 Estou estudando Front-end
-- 🌱 Atualmente estou me aprofundando em JavaScript
 - 😄 Pronouns: ela/dela
 
-<div align="center">
+<div>
   <a href="https://github.com/sthefanyaraujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sthefanyaraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanyaraujo&layout=compact&langs_count=7&theme=dracula"/>
