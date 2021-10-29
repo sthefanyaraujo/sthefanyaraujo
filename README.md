@@ -17,8 +17,7 @@
 </div>
   
   ##
+ [![Meu perfil na Rocketseat](https://img.shields.io/badge/-Perfil%20Rocketseat-purple)](https://app.rocketseat.com.br/me/sthefany-araujo-04285)
+ [![Meu perfil no LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/sthefany-araujo1)
  
- <div align="center">
-  <a href="https://www.linkedin.com/in/sthefany-araujo1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
 
